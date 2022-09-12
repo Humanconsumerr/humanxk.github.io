@@ -7,3 +7,4 @@
 #
 layout: home
 ---
+{% include carousel.html height="250" unit="px" duration="4" %}
